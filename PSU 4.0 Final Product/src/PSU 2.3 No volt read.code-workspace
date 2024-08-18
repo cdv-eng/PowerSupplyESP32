@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Testing asd1115 with Uno",
+			"path": "../../Testing asd1115 with Uno"
+		},
+		{
+			"name": "ADS1115 Test on ESP32",
+			"path": "../../ADS1115 Test on ESP32"
+		}
+	],
+	"settings": {}
+}
